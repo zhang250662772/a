@@ -3,6 +3,9 @@
 ! Title:  ChinaListV2.0
 ! Last modified: 2020/02/23 19:20:27 +0800
 ! Homepage: https://gitee.com/shenqiliulanqi/gg/raw/master
+1090ys2.com##.clearfix.stui-pannel-box > .stui-pannel_hd
+1090ys2.com##[src^="https://ae03.alicdn.com/kf/"]
+1090ys2.com##div:has-text(检测)
 -1688-wp-media/ads/
 -880-80-4.jpg
 -90mh-gg.

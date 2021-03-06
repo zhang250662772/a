@@ -5,7 +5,7 @@ www.nfmovies.com##DIV.myui-ra-container.container
 www.bingfengyl.com##DIV.artban.shadow
 m.hanjuwang.net/d/js/hjw/a4.js
 m.zwpop.org/assets/js/m.js
-www.pianba.tv##IMG[src*='http'][style='display: block;']
+pianba.tv,pianba.net##IMG[src*='http'][style='display: block;']
 1090ys2.com##DIV#idadkillsho.addkillcont
 1090ys2.com##DIV#addesc.addesc
 1090ys2.com##IMG[alt*='图']

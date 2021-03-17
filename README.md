@@ -33,6 +33,7 @@
 - https://gitee.com/halflife/list/raw/master/ad.txt （合并EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则）
 - https://gitee.com/halflife/list/raw/master/ad2.txt （仅合并EasylistChina、EasylistLite、CJX'sAnnoyance）
 - https://gitee.com/halflife/list/raw/master/ad3.txt （合并EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy）
+- https://gitee.com/halflife/list/issues/I1CV06     (新订阅地址列表)
 #### ADgk（适用于AdGuard for Android）
 - https://gitee.com/banbendalao/adguard/raw/master/ADgk.txt
 

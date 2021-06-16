@@ -21,6 +21,7 @@ www.nfmovies.com##DIV.myui-ra-container.container
 www.bingfengyl.com##DIV.artban.shadow
 m.hanjuwang.net/d/js/hjw/a4.js
 m.zwpop.org/assets/js/m.js
+www.zhenbuka2.com##IMG[onclick^='window.open']
 pianba.net,pianba.tv##.nopc.play-btn
 pianba.tv,pianba.net##IMG[src*='http'][style='display: block;']
 1090ys2.com##img[onclick*="window.open"]
@@ -53,8 +54,6 @@ wyxcb6.top
 watbc.top
 watbe.top
 shuangshiyihightgo.top
-zhenbuka.com##[src$="gif"]
-zhenbuka.com##[src$="png"]
 pinyoux.com
 dagonghuzhu.com
 */Public/js/js.php

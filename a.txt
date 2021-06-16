@@ -23,6 +23,7 @@ m.hanjuwang.net/d/js/hjw/a4.js
 m.zwpop.org/assets/js/m.js
 pianba.net,pianba.tv##.nopc.play-btn
 pianba.tv,pianba.net##IMG[src*='http'][style='display: block;']
+1090ys2.com##img[onclick*="window.open" ]
 1090ys2.com##DIV#idadkillsho.addkillcont
 1090ys2.com##DIV#addesc.addesc
 1090ys2.com##IMG[alt*='图']

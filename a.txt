@@ -23,6 +23,7 @@ jungbey.xyz
 hikin.online
 fangniaowang.net
 handanxinkai.com
+v.emsdn.cn##P[style*='background-color: #FF6E76']
 dianying.im##DIV.recommend-two.recommend-list
 m.yunbtv.com##DIV.visible-xs
 www.nfmovies.com##DIV.myui-ra-container.container

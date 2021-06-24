@@ -37,6 +37,7 @@ www.bingfengyl.com##DIV.artban.shadow
 m.hanjuwang.net/d/js/hjw/a4.js
 m.zwpop.org/assets/js/m.js
 www.zhenbuka2.com##IMG[onclick^='window.open']
+www.zhenbuka2.com##IMG#ad1[url][onclick='window.open(this.url)']
 pianba.net,pianba.tv##.nopc.play-btn
 pianba.tv,pianba.net##IMG[src*='http'][style='display: block;']
 1090ys2.com##img[onclick*="window.open"]

@@ -52,6 +52,7 @@ m.kkkkwu.net##A[href^='javascript:Go']
 dianyingim.com,dianying.im,dyxs11.com##DIV.player-recommend.recommend-two.recommend-list
 dianying.im,dyxs11.com,dianyingim.com##DIV#chuanqi
 v.emsdn.cn##P[style*='background-color: #FF6E76']
+dianying.im,dyxs11.com,dianyingim.com##IMG[src*='.gif']
 m.yunbtv.com##DIV.visible-xs
 www.nfmovies.com##DIV.myui-ra-container.container
 www.bingfengyl.com##DIV.artban.shadow
